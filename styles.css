@@ -21,7 +21,8 @@ body{
     padding: 35px;
     border-radius: 20px;
     background-color: rgb(231, 235, 250);
-    width: 40%;
+    width: 70%;
+    height: 15rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,22 +31,15 @@ body{
 }
 
 .head{
-    /* background-color: black; */
-    /* padding: 10px; */
     font-weight:500;
     font-size: 1.3rem;
     background-color: rgb(231, 235, 250);
-
-    /* color: white; */
 }
 input{
+    margin-top: 10%;
     background-color: rgb(231, 235, 250);
-
-
-    /* background-color: black; */
-    scrollbar-width: none;
     border: none;
-    outline: none;
+    outline: none; 
     /* color: white; */
     border-bottom: 3px solid rgb(105, 105, 198);
     border-top: none;
